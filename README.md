@@ -5,7 +5,6 @@ This project is designed to predict whether a patient has diabetes or not based 
 The dataset used in this project can be found on kaggle: [Diabetic prediction Dataset](https://www.kaggle.com/datasets/kandij/diabetes-dataset/data).It includes information about demographic and health-related attributes, as well as a binary outcome variable indicating whether the individual has been diagnosed with diabetes.
 ## Dependencies
 To run this project, you need to have the following dependencies installed:
-- Python (>=3.6)
 - NumPy
 - Pandas
 - Scikit-learn
